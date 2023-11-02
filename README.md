@@ -1,5 +1,7 @@
 # CryptoTracker
 
+[![Run on Repl.it](https://repl.it/badge/github/mrbmw31/cryptotracker)](https://repl.it/github/mrbmw31/cryptotracker)
+
 [![Discord bot invite](https://img.shields.io/badge/bot-click_to_invite-brightgreen?logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1132724830135922688&permissions=277025508352&scope=bot%20applications.commands)
 ![GitHub stars](https://img.shields.io/github/stars/aelew/cryptotracker)
 
